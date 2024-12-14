@@ -19,4 +19,4 @@
 
 ## Дополнительные материалы:
 Документация: https://mswjs.io/docs/getting-started  
-Видео - 
+Видео - https://youtube.com/shorts/AHxXDL1NmX8?feature=share
